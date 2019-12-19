@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ef3c0c5-71b6-4bac-b7a0-4279f4c71274" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UU49Tj3ug4YN4lbiPadlBNqpLK" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="101" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="179" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gazitfbm.proje.Main" />
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gazitfbm.proje.vt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="form1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gazitfbm.proje.form1" />
+      <module name="proje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gazitfbm.proje.vt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mysql-connector-java-8.0.18.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="C:/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.form1" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.18.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ef3c0c5-71b6-4bac-b7a0-4279f4c71274" name="Default Changelist" comment="" />
+      <created>1575397688273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575397688273</updated>
+      <workItem from="1575397692825" duration="1299000" />
+      <workItem from="1575486288549" duration="1235000" />
+      <workItem from="1575564294911" duration="10692000" />
+      <workItem from="1575643131906" duration="7115000" />
+      <workItem from="1575655653502" duration="5173000" />
+      <workItem from="1575709484199" duration="351000" />
+      <workItem from="1575722304360" duration="4207000" />
+      <workItem from="1575726931229" duration="13437000" />
+      <workItem from="1575816007279" duration="4715000" />
+      <workItem from="1575902039730" duration="3831000" />
+      <workItem from="1576169355998" duration="2069000" />
+      <workItem from="1576179316800" duration="2780000" />
+      <workItem from="1576182256421" duration="38000" />
+      <workItem from="1576252959101" duration="8837000" />
+      <workItem from="1576317574742" duration="8944000" />
+      <workItem from="1576350738191" duration="9768000" />
+      <workItem from="1576407032505" duration="13023000" />
+      <workItem from="1576434708418" duration="5997000" />
+      <workItem from="1576505686872" duration="5108000" />
+      <workItem from="1576689303815" duration="6273000" />
+      <workItem from="1576771576759" duration="241000" />
+      <workItem from="1576771905325" duration="2004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
